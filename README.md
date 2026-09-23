@@ -4,7 +4,7 @@ The following changes were made to ensure that requirements were met:
 - Updated app/calculator/__init__.py to call the Operations class
 - Updated tests/test_operations.py to ensure that pytests will be successful
 
-In order to use the REPL app: 
+REMINDER: in order to use the REPL app: 
 1. use the following command: python main.py or python3 main.py
 2. enter the necessary inputs to use the calculator 
 3. to exit, enter "exit" 
